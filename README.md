@@ -1,1 +1,4 @@
-# SPTECH
+# Aula GIT e GITHUB
+
+## iniciando
+⚡
