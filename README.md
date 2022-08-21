@@ -1,4 +1,4 @@
-# Aula GIT e GITHUB
+# Conteúdos da Faculdade
 
 ## iniciando
 ⚡
